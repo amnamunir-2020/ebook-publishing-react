@@ -1,6 +1,8 @@
 
 function About() {
   return (
+
+    
     <section className="about-section" id="about">
       <div className="container">
 
@@ -14,24 +16,22 @@ function About() {
             </span>
 
             <h2>
-              Professional Ebook Publishing
+              Your eBook Publishing Service Partner for Turning Manuscripts Into Bestsellers
               <strong>Services You Can Trust</strong>
             </h2>
+            <p>The book publishing world has been subtly transformed by ebook publishing. It gives authors the power that was traditionally held by only big publishers, allowing your story to be available on Kindle, Apple Books, Kobo, and Google Play in days of your choice, many times only days after you submit it.</p>
 
             <p>
-              We help authors turn their ideas and manuscripts into
-              professionally published books. From formatting and
-              editing to cover design and ebook publishing, our team
-              provides everything you need to bring your book to life.
+           The power of ebooks is reach. They could download your book at any time of the day or night, the same minute it hits the web, wherever they are in the world- London, Toronto, Dubai, wherever. The boundaries of borders and time zones are no longer a limitation to your story's audience.
             </p>
 
             <p>
-              Whether you are a first-time author or an experienced
-              writer, we make the publishing process simple, smooth,
-              and stress-free.
+             That's where our eBook and book publishing service can help. Whether it's manuscript formatting, cover design, metadata, keyword optimization, or multi-platform distribution, our ebook publishers online take care of every technical detail, ensuring your finished draft becomes a professional ebook that will be ready for your retailer without you losing your voice or your rights.
+
+
             </p>
 
-            <a href="#contact" className="about-btn">
+            <a href="contact-us" className="about-btn">
               Get Started
             </a>
 

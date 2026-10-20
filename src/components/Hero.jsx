@@ -7,18 +7,16 @@ function Hero() {
 
           <div className="hero-text">
             <span className="hero-tag">
-              Professional Ebook Publishing Services
+              Global eBook Publishing Service
             </span>
 
             <h1>
-              Bring Your Book to Life
-              <span>With Professional Publishing</span>
+             Ebook Publishing <span> Services  With a </span> 100% Published-or-Refunded Promise
+             
             </h1>
-
+<span>Your Manuscript's Fastest Way to Readers — Formatted, Designed, Distributed to 60+ Platforms Worldwide</span>
             <p>
-              From manuscript to published book, we provide professional
-              ebook publishing services to help authors reach readers
-              worldwide.
+              We are a professional eBook publishing service that has helped 2,500+ authors turn finished manuscripts into properly published eBooks. From formatting and cover design to global distribution across 170+ countries — we handle everything while you keep 100% of your royalties.
             </p>
 
             <div className="hero-buttons">

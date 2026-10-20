@@ -8,7 +8,7 @@ function Footer() {
       <div className="container">
         <div className="footer-main">
           <div className="footer-about">
-            <a href="/" className="footer-logo">
+            <a href="/home" className="footer-logo">
               eBook Publishing Services
             </a>
 
@@ -28,7 +28,7 @@ function Footer() {
           <div className="footer-links">
             <h3>Quick Links</h3>
             <ul>
-              <li><a href="/">Home</a></li>
+              <li><a href="/home">Home</a></li>
               <li><a href="/about-us">About Us</a></li>
               <li><a href="/services">Our Services</a></li>
               <li><a href="/contact-us">Contact Us</a></li>
@@ -38,10 +38,10 @@ function Footer() {
           <div className="footer-links">
             <h3>Our Services</h3>
             <ul>
-              <li><a href="/ebook-formatting">eBook Formatting</a></li>
-              <li><a href="/book-cover-design">Book Cover Design</a></li>
-              <li><a href="/ebook-publishing">eBook Publishing</a></li>
-              <li><a href="/book-editing">Book Editing</a></li>
+              <li><a href="/services">eBook Formatting</a></li>
+              <li><a href="/services">Book Cover Design</a></li>
+              <li><a href="/services">eBook Publishing</a></li>
+              <li><a href="/services">Book Editing</a></li>
             </ul>
           </div>
 

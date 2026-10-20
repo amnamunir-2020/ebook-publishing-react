@@ -1,4 +1,4 @@
-
+import submit from '../assets/fav-icon.webp'
 function WhoHandle() {
   const steps = [
     {
@@ -42,7 +42,8 @@ function WhoHandle() {
           {steps.map((step, index) => (
             <div className="who-handle-step" key={step.title}>
               <div className="who-handle-icon">
-                {/* Apna SVG icon yahan add karein */}
+                { <img src={submit} alt="Ebook Publishing" />}
+                     
               </div>
 
               <span className="who-handle-number">

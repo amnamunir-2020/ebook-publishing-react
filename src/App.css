@@ -225,9 +225,15 @@ a {
   color: #006d77;
 }
 
+
+.hero-text  span {
+
+  color: #0284c7;
+}
+
 .hero-text p {
   max-width: 600px;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.7;
   color: black;
   margin-bottom: 30px;
@@ -341,7 +347,7 @@ a {
   /* Hero */
 
   .hero-section {
-    padding: 80px 0;
+    padding: 50px 0;
   }
 
   .hero-content {
@@ -489,7 +495,7 @@ a {
   ========================= */
 
   .hero-section {
-    padding: 60px 0;
+    padding: 30px 0;
   }
 
   .hero-content {
@@ -692,7 +698,7 @@ a {
 /* About Section */
 
 .about-section {
-  padding: 100px 0;
+  padding: 50px 0;
   background: #fff;
 }
 
@@ -701,6 +707,13 @@ a {
   align-items: center;
   justify-content: space-between;
   gap: 70px;
+}
+
+.h2sec{
+  padding: 20px;
+  background: #0284c7;
+  color: white;
+
 }
 
 .about-text {
@@ -811,7 +824,7 @@ a {
 
 @media (max-width: 767.98px) {
   .about-section {
-    padding: 60px 0;
+    padding: 30px 0;
   }
 
   .about-content {
@@ -840,7 +853,7 @@ a {
 
 
 .logo-carousel-section {
-  padding: 80px 0;
+  padding: 50px 0;
   background: #f8fbfb;
   overflow: hidden;
 }
@@ -944,7 +957,7 @@ a {
 }
 
 .book-carousel-section {
-  padding: 90px 0;
+  padding: 50px 0;
   background: #fff;
   overflow: hidden;
 }
@@ -1088,7 +1101,7 @@ a {
 @media (max-width: 575.98px) {
 
   .book-carousel-section {
-    padding: 60px 0;
+    padding: 30px 0;
   }
 
   .book-carousel-heading {
@@ -1113,7 +1126,7 @@ a {
 
 
 .what-publish-section {
-  padding: 100px 0;
+  padding: 50px 0;
   background: #f8fbfb;
 }
 
@@ -1243,7 +1256,7 @@ a {
 @media (max-width: 575.98px) {
 
   .what-publish-section {
-    padding: 70px 0;
+    padding: 30px 0;
   }
 
   .what-publish-heading h2 {
@@ -1266,7 +1279,7 @@ a {
 /* WHY AUTHORS SECTION */
 
 .why-authors-section {
-  padding: 90px 0;
+  padding: 50px 0;
   background: #fff;
 }
 
@@ -1375,7 +1388,7 @@ a {
 
 @media (max-width: 575.98px) {
   .why-authors-section {
-    padding: 60px 0;
+    padding: 30px 0;
   }
 
   .why-authors-heading h2 {
@@ -1401,7 +1414,7 @@ a {
 
 /* Manuscript-to-market process section */
 .market-process-section {
-  padding: 80px 0;
+  padding: 50px 0;
   background: #fff;
 }
 
@@ -1450,7 +1463,7 @@ a {
 
 .market-process-icon {
   width: 64px;
-  height: 64px;
+
   margin: 0 auto 18px;
 }
 
@@ -1475,7 +1488,7 @@ a {
 
 @media (max-width: 575px) {
   .market-process-section {
-    padding: 55px 0;
+    padding: 30px 0;
   }
 
   .market-process-heading {
@@ -1546,7 +1559,7 @@ a {
 
 
 .publishing-services-section {
-  padding: 70px 0;
+  padding: 50px 0;
   background: #fff;
 }
 
@@ -1576,7 +1589,7 @@ ul.list-eb {
 
 @media (max-width: 575px) {
   .publishing-services-section {
-    padding: 45px 0;
+    padding: 30px 0;
   }
 
   .publishing-services-content h2 {
@@ -1591,7 +1604,7 @@ ul.list-eb {
 
 
 .cta-section {
-  padding: 70px 0;
+  padding: 50px 0;
   background: #006d77;
   font-family: 'Poppins', sans-serif;
 }
@@ -1659,7 +1672,7 @@ ul.list-eb {
 
 @media (max-width: 575px) {
   .cta-section {
-    padding: 48px 0;
+    padding: 30px 0;
   }
 
   .cta-content h2 {
@@ -1685,7 +1698,7 @@ ul.list-eb {
 
 
 .who-handle-section {
-  padding: 80px 0;
+  padding: 50px 0;
   background: #fff;
   font-family: 'Poppins', sans-serif;
 }
@@ -1774,7 +1787,7 @@ ul.list-eb {
 
 @media (max-width: 575px) {
   .who-handle-section {
-    padding: 50px 0;
+    padding: 30px 0;
   }
 
   .who-handle-heading h2 {
@@ -1799,7 +1812,7 @@ ul.list-eb {
 
 /* FAQ + contact form section */
 .faq-form-section {
-  padding: 80px 0;
+  padding: 50px 0;
   background: #f7f9fa;
   font-family: 'Poppins', sans-serif;
 }
@@ -1979,7 +1992,7 @@ ul.list-eb {
 
 @media (max-width: 575px) {
   .faq-form-section {
-    padding: 50px 0;
+    padding: 30px 0;
   }
 
   .faq-form-faqs h2,
